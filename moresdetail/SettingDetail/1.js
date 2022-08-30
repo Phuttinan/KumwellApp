@@ -23,6 +23,7 @@ const Set1 = () => {
     </View>
   );
 }
+
 const styles = StyleSheet.create({
     warp: {
       flexDirection: 'row',
